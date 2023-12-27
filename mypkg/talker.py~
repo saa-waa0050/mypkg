@@ -16,5 +16,5 @@ class Talker():
 
 rclpy.init()
 node = Node("Talker")
-talker = Takler(node)
+talker = Talker(node)
 rclpy.spin(node)
