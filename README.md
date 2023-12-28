@@ -1,5 +1,5 @@
 # mypkg
-[[![test](https://github.com/saa-waa0050/mypkg/actions/workflows/test.yml/badge.svg)](https://github.com/saa-waa0050/mypkg/actions/workflows/test.yml)](https://github.com/saa-waa0050/robosys2023.ver2/actions/workflows/test.yml)
+[![test](https://github.com/saa-waa0050/mypkg/actions/workflows/test.yml/badge.svg)](https://github.com/saa-waa0050/robosys2023.ver2/actions/workflows/test.yml)
 このリポジトリは千葉工業大学　ロボットシステム学の授業用・学習用リポジトリです。
 ここではROS 2について学習しています。
 ## 機能（ノード）について
