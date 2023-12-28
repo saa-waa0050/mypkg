@@ -120,4 +120,8 @@ cd mypkg/
 
 ## 権利
 - このソフトウェアパッケージは、３条項BSDライセンスの下、再頒布及び使用が許可されます。
+- このパッケージのコードは，下記のスライド群（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです。
+>rhttps://ryuichiueda.github.io/my_slides/robosys_2022/lesson11.html#/6
+>https://ryuichiueda.github.io/my_slides/robosys_2022/lesson10.html#/4
+>https://ryuichiueda.github.io/my_slides/robosys_2022/lesson8.html#/22
 - © 2023 Shusuke Osawa
