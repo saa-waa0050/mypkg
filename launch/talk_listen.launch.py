@@ -1,3 +1,6 @@
+#SPDX-FileCopyrightText:2023 Shusuke Osawa hakuno0040@gmail.com
+#SPDX-License-Identifier:BSD-3-Clause
+
 import launch
 import launch.actions
 import launch.substitutions
